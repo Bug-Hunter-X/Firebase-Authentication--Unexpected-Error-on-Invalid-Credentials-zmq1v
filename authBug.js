@@ -1,0 +1,1 @@
+The Firebase Authentication SDK might throw an unexpected error if the user's email or password is incorrect. This typically results in an error that is not very informative, making it difficult to debug.
