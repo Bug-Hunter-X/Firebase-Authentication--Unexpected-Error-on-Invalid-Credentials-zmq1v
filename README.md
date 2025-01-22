@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Firebase Authentication where an unexpected error occurs when the user provides incorrect email or password credentials. The error message is not very descriptive, making it hard to pinpoint the issue. The solution provides improved error handling to provide more specific feedback to the user.
